@@ -8,6 +8,9 @@ An editor tool window that lets non-programmers (and programmers too) generate i
 
 The tool generates a separate partial class for the inspector with fields that the user added using the editor window. After recompiling, it automatically grabs references for the selected component and assigns them to fields in the inspector.
 
+![inspectorGenerator](https://github.com/Muciojad/CodeSamples/assets/10184394/e519edb4-b5f3-4a85-a2e3-9b89d639857d)
+
+
 ## Postman
 
 Postman is my implementation of the publisher-subscriber code pattern. Messages are dispatched through the listeners quickly, using a Dictionary as the main collection for receivers. See "UseSamples" for real-life examples of using Postman in projects.
