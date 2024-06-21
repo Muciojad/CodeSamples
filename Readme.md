@@ -18,3 +18,7 @@ Postman is my implementation of the publisher-subscriber code pattern. Messages 
 ## Storage
 
 A simple pure data-based storage system barebones for early-stage prototypes. It serves as basic player storage for collected/purchased items during the game. Easily extendable for save/load purposes and more complex storage operations.
+
+# My custom dependency injection hobby project
+With my experience in using Zenject/Extenject and some less complex DI systems, I decided to implement my own DI framework to fit the needs of my Poseidon Framework, which I use in my projects. So, I made it - it's called Poseidon Inseminator. It's an add-on for my Poseidon Framework, but you can take a look at the docs and the code to see what's going on there:
+[GitHub Documentation & Code](https://github.com/Poseidon-tools/Poseidon-Inseminator)
